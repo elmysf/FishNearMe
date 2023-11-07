@@ -40,7 +40,7 @@ struct Utils {
     
     //get ruppe enabled price symbol
     static func getFormattedPrice(price: Int?)-> String{
-        return "\u{20B9}"+"\(price ?? 0)"
+        return "Rp "+"\(price ?? 0)"
     }
     
     //show a bottom snackbar message
