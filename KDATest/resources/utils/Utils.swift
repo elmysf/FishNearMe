@@ -47,8 +47,9 @@ struct Utils {
      static func showToast(msg: String) {
         let message = MDCSnackbarMessage()
         message.text =  msg
-        MDCSnackbarManager.show(message)
+        MDCSnackbarManager().show(message)
     }
+    
     
 }
 

@@ -6,9 +6,9 @@ target 'KDATest' do
   use_frameworks!
 
   # Pods for KDATest
-    pod 'URLImage'
+    pod 'Kingfisher', '~> 7.10.0'
     pod 'MaterialComponents/Snackbar'
-    pod 'Alamofire', '~> 5.1'
+    pod 'Alamofire', '~> 5.8.1'
 
   target 'KDATestTests' do
     inherit! :search_paths

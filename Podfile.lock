@@ -1,5 +1,6 @@
 PODS:
-  - Alamofire (5.8.0)
+  - Alamofire (5.8.1)
+  - Kingfisher (7.10.0)
   - MaterialComponents/AnimationTiming (124.2.0)
   - MaterialComponents/Availability (124.2.0)
   - MaterialComponents/Buttons (124.2.0):
@@ -69,46 +70,27 @@ PODS:
     - MDFTextAccessibility
   - MDFInternationalization (3.0.0)
   - MDFTextAccessibility (2.0.1)
-  - URLImage (2.2.5):
-    - URLImage/Common (= 2.2.5)
-    - URLImage/DownloadManager (= 2.2.5)
-    - URLImage/FileIndex (= 2.2.5)
-    - URLImage/ImageDecoder (= 2.2.5)
-    - URLImage/Log (= 2.2.5)
-    - URLImage/PlainDatabase (= 2.2.5)
-    - URLImage/RemoteContentView (= 2.2.5)
-  - URLImage/Common (2.2.5)
-  - URLImage/DownloadManager (2.2.5):
-    - URLImage/Log
-  - URLImage/FileIndex (2.2.5):
-    - URLImage/Common
-    - URLImage/Log
-    - URLImage/PlainDatabase
-  - URLImage/ImageDecoder (2.2.5)
-  - URLImage/Log (2.2.5)
-  - URLImage/PlainDatabase (2.2.5)
-  - URLImage/RemoteContentView (2.2.5)
 
 DEPENDENCIES:
-  - Alamofire (~> 5.1)
+  - Alamofire (~> 5.8.1)
+  - Kingfisher (~> 7.10.0)
   - MaterialComponents/Snackbar
-  - URLImage
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - Kingfisher
     - MaterialComponents
     - MDFInternationalization
     - MDFTextAccessibility
-    - URLImage
 
 SPEC CHECKSUMS:
-  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  Kingfisher: a18f05d3b6d37d8650ee4a3e61d57a28fc6207f6
   MaterialComponents: 1a9b2d9d45b1601ae544de85089adc4c464306d4
   MDFInternationalization: d697c55307816222a55685c4ccb1044ffb030c12
   MDFTextAccessibility: f4bb4cc2194286651b59a215fdeaa0e05dc90ba5
-  URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
 
-PODFILE CHECKSUM: a293995d4d046332595e24e59b90f05d21140e27
+PODFILE CHECKSUM: 04c08333c5a8dbeaf1f4653501d9caa0b050fb65
 
-COCOAPODS: 1.13.0
+COCOAPODS: 1.14.2

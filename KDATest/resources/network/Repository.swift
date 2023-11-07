@@ -25,7 +25,7 @@ struct Repository {
                 return
             }
             delegate.onSuccess(categories: responseData)
-            debugPrint(response)
+            debugPrint("Show Categories \(response)")
         }
     }
     
@@ -38,7 +38,7 @@ struct Repository {
                 return
             }
             delegate.onSuccess(products: responseData)
-            debugPrint(response)
+            debugPrint("Show Product \(response)")
         }
     }
     
@@ -48,8 +48,8 @@ struct Repository {
  api endpoints
  */
 fileprivate enum PATHS : String{
-    case CATEGORIES = "main/KDATest/resources/categories"
-    case PRODUCTS = "main/KDATest/resources/"
+    case CATEGORIES = "raw/main/KDATest/resources/categories"
+    case PRODUCTS = "raw/main/KDATest/resources/"
 }
 
 /**
