@@ -66,6 +66,8 @@
 		726E73C42AFA1772003E8067 /* GroceryItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73C32AFA1772003E8067 /* GroceryItemModel.swift */; };
 		726E73C62AFA1790003E8067 /* CategoryItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73C52AFA1790003E8067 /* CategoryItemModel.swift */; };
 		726E73C92AFA1817003E8067 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73C82AFA1816003E8067 /* Repository.swift */; };
+		726E73CC2AFA1BE9003E8067 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73CB2AFA1BE9003E8067 /* Utils.swift */; };
+		726E73CE2AFA1C0A003E8067 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73CD2AFA1C0A003E8067 /* Constants.swift */; };
 		8255679A44E6F150DD02FDA1 /* Pods_KDATest_KDATestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B97DA2A4AD7F031E2CA7FE4 /* Pods_KDATest_KDATestUITests.framework */; };
 		CD6F943FC0EB7706C0FFF735 /* Pods_KDATestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10D17AEA47B09B04833675A4 /* Pods_KDATestTests.framework */; };
 		F548330FB1ED61270FDD735A /* Pods_KDATest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49F635162CCFA2581264AD66 /* Pods_KDATest.framework */; };
@@ -159,6 +161,8 @@
 		726E73C32AFA1772003E8067 /* GroceryItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryItemModel.swift; sourceTree = "<group>"; };
 		726E73C52AFA1790003E8067 /* CategoryItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItemModel.swift; sourceTree = "<group>"; };
 		726E73C82AFA1816003E8067 /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
+		726E73CB2AFA1BE9003E8067 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		726E73CD2AFA1C0A003E8067 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8769482CF9484C519BC676B0 /* Pods-KDATest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATest.debug.xcconfig"; path = "Target Support Files/Pods-KDATest/Pods-KDATest.debug.xcconfig"; sourceTree = "<group>"; };
 		DBC593EA4D9F0EC64A736304 /* Pods-KDATestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATestTests.debug.xcconfig"; path = "Target Support Files/Pods-KDATestTests/Pods-KDATestTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -290,6 +294,7 @@
 		726E72E82AFA070C003E8067 /* resources */ = {
 			isa = PBXGroup;
 			children = (
+				726E73CA2AFA1BE0003E8067 /* utils */,
 				726E73C72AFA17FE003E8067 /* network */,
 				726E72E92AFA070C003E8067 /* categories.json */,
 				726E73B72AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json */,
@@ -390,6 +395,15 @@
 				726E73C82AFA1816003E8067 /* Repository.swift */,
 			);
 			path = network;
+			sourceTree = "<group>";
+		};
+		726E73CA2AFA1BE0003E8067 /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				726E73CB2AFA1BE9003E8067 /* Utils.swift */,
+				726E73CD2AFA1C0A003E8067 /* Constants.swift */,
+			);
+			path = utils;
 			sourceTree = "<group>";
 		};
 		9EEAC8E9B7B1F31F82DCF281 /* Pods */ = {
@@ -697,6 +711,8 @@
 				726E73C02AFA1727003E8067 /* ObservablesModels.swift in Sources */,
 				723896112AF9044700622E53 /* KDATestApp.swift in Sources */,
 				726E73BE2AFA1708003E8067 /* Protocols.swift in Sources */,
+				726E73CC2AFA1BE9003E8067 /* Utils.swift in Sources */,
+				726E73CE2AFA1C0A003E8067 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
