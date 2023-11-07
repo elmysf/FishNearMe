@@ -11,6 +11,55 @@
 		723896222AF9044800622E53 /* KDATestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723896212AF9044800622E53 /* KDATestTests.swift */; };
 		7238962C2AF9044800622E53 /* KDATestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7238962B2AF9044800622E53 /* KDATestUITests.swift */; };
 		7238962E2AF9044800622E53 /* KDATestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7238962D2AF9044800622E53 /* KDATestUITestsLaunchTests.swift */; };
+		726E731F2AFA070C003E8067 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 726E72E92AFA070C003E8067 /* categories.json */; };
+		726E73852AFA07FB003E8067 /* sunflower_seed.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73512AFA07FA003E8067 /* sunflower_seed.png */; };
+		726E73862AFA07FB003E8067 /* almonds.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73522AFA07FA003E8067 /* almonds.png */; };
+		726E73872AFA07FB003E8067 /* pumpkin_seeds.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73532AFA07FA003E8067 /* pumpkin_seeds.png */; };
+		726E73882AFA07FB003E8067 /* pistachio.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73542AFA07FA003E8067 /* pistachio.png */; };
+		726E73892AFA07FB003E8067 /* walnut.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73552AFA07FA003E8067 /* walnut.png */; };
+		726E738A2AFA07FB003E8067 /* cachew.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73562AFA07FA003E8067 /* cachew.png */; };
+		726E738B2AFA07FB003E8067 /* groundnuts.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73572AFA07FA003E8067 /* groundnuts.png */; };
+		726E738C2AFA07FB003E8067 /* dairy_promo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 726E73592AFA07FA003E8067 /* dairy_promo.jpg */; };
+		726E738D2AFA07FB003E8067 /* dry_fruits_promo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 726E735A2AFA07FA003E8067 /* dry_fruits_promo.jpg */; };
+		726E738E2AFA07FB003E8067 /* fruit_promo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 726E735B2AFA07FA003E8067 /* fruit_promo.jpg */; };
+		726E73932AFA07FB003E8067 /* bread.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73612AFA07FA003E8067 /* bread.png */; };
+		726E73942AFA07FB003E8067 /* ghee.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73622AFA07FA003E8067 /* ghee.png */; };
+		726E73952AFA07FB003E8067 /* milk.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73632AFA07FA003E8067 /* milk.png */; };
+		726E73962AFA07FB003E8067 /* eggs.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73642AFA07FA003E8067 /* eggs.png */; };
+		726E73972AFA07FB003E8067 /* curd.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73652AFA07FA003E8067 /* curd.png */; };
+		726E73982AFA07FB003E8067 /* papaya.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73672AFA07FB003E8067 /* papaya.png */; };
+		726E73992AFA07FB003E8067 /* peach.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73682AFA07FB003E8067 /* peach.png */; };
+		726E739A2AFA07FB003E8067 /* avacado.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73692AFA07FB003E8067 /* avacado.png */; };
+		726E739B2AFA07FB003E8067 /* bananas.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736A2AFA07FB003E8067 /* bananas.png */; };
+		726E739C2AFA07FB003E8067 /* coconut.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736B2AFA07FB003E8067 /* coconut.png */; };
+		726E739D2AFA07FB003E8067 /* pineapple.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736C2AFA07FB003E8067 /* pineapple.png */; };
+		726E739E2AFA07FB003E8067 /* mango.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736D2AFA07FB003E8067 /* mango.png */; };
+		726E739F2AFA07FB003E8067 /* lichi.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736E2AFA07FB003E8067 /* lichi.png */; };
+		726E73A02AFA07FB003E8067 /* sapota.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E736F2AFA07FB003E8067 /* sapota.png */; };
+		726E73A12AFA07FB003E8067 /* grape.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73702AFA07FB003E8067 /* grape.png */; };
+		726E73A22AFA07FB003E8067 /* watermelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73712AFA07FB003E8067 /* watermelon.png */; };
+		726E73A32AFA07FB003E8067 /* orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73722AFA07FB003E8067 /* orange.png */; };
+		726E73A42AFA07FB003E8067 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73732AFA07FB003E8067 /* apple.png */; };
+		726E73A52AFA07FB003E8067 /* pomegranate.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73742AFA07FB003E8067 /* pomegranate.png */; };
+		726E73A62AFA07FB003E8067 /* strawberries.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73752AFA07FB003E8067 /* strawberries.png */; };
+		726E73A72AFA07FB003E8067 /* plum.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73762AFA07FB003E8067 /* plum.png */; };
+		726E73A82AFA07FB003E8067 /* guava.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73772AFA07FB003E8067 /* guava.png */; };
+		726E73A92AFA07FB003E8067 /* berries.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73782AFA07FB003E8067 /* berries.png */; };
+		726E73AA2AFA07FB003E8067 /* kiwi.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73792AFA07FB003E8067 /* kiwi.png */; };
+		726E73AB2AFA07FB003E8067 /* potato.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E737B2AFA07FB003E8067 /* potato.png */; };
+		726E73AC2AFA07FB003E8067 /* corn.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E737C2AFA07FB003E8067 /* corn.png */; };
+		726E73AD2AFA07FB003E8067 /* carrot.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E737D2AFA07FB003E8067 /* carrot.png */; };
+		726E73AE2AFA07FB003E8067 /* onion.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E737E2AFA07FB003E8067 /* onion.png */; };
+		726E73AF2AFA07FB003E8067 /* tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E737F2AFA07FB003E8067 /* tomato.png */; };
+		726E73B02AFA07FB003E8067 /* raddish.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73802AFA07FB003E8067 /* raddish.png */; };
+		726E73B12AFA07FB003E8067 /* brinjal.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73812AFA07FB003E8067 /* brinjal.png */; };
+		726E73B22AFA07FB003E8067 /* cabbage.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73822AFA07FB003E8067 /* cabbage.png */; };
+		726E73B32AFA07FB003E8067 /* lettuce.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73832AFA07FB003E8067 /* lettuce.png */; };
+		726E73B42AFA07FB003E8067 /* pumpkin.png in Resources */ = {isa = PBXBuildFile; fileRef = 726E73842AFA07FB003E8067 /* pumpkin.png */; };
+		726E73B92AFA1667003E8067 /* 57567b6c-87d8-11ea-bc55-0242ac130003.json in Resources */ = {isa = PBXBuildFile; fileRef = 726E73B52AFA1667003E8067 /* 57567b6c-87d8-11ea-bc55-0242ac130003.json */; };
+		726E73BA2AFA1667003E8067 /* 575679a0-87d8-11ea-bc55-0242ac130003.json in Resources */ = {isa = PBXBuildFile; fileRef = 726E73B62AFA1667003E8067 /* 575679a0-87d8-11ea-bc55-0242ac130003.json */; };
+		726E73BB2AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json in Resources */ = {isa = PBXBuildFile; fileRef = 726E73B72AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json */; };
+		726E73BC2AFA1667003E8067 /* 5756773e-87d8-11ea-bc55-0242ac130003.json in Resources */ = {isa = PBXBuildFile; fileRef = 726E73B82AFA1667003E8067 /* 5756773e-87d8-11ea-bc55-0242ac130003.json */; };
 		8255679A44E6F150DD02FDA1 /* Pods_KDATest_KDATestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B97DA2A4AD7F031E2CA7FE4 /* Pods_KDATest_KDATestUITests.framework */; };
 		CD6F943FC0EB7706C0FFF735 /* Pods_KDATestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10D17AEA47B09B04833675A4 /* Pods_KDATestTests.framework */; };
 		F548330FB1ED61270FDD735A /* Pods_KDATest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49F635162CCFA2581264AD66 /* Pods_KDATest.framework */; };
@@ -49,6 +98,55 @@
 		7238962B2AF9044800622E53 /* KDATestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KDATestUITests.swift; sourceTree = "<group>"; };
 		7238962D2AF9044800622E53 /* KDATestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KDATestUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		726E72E72AF9F8C7003E8067 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		726E72E92AFA070C003E8067 /* categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
+		726E73512AFA07FA003E8067 /* sunflower_seed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sunflower_seed.png; sourceTree = "<group>"; };
+		726E73522AFA07FA003E8067 /* almonds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = almonds.png; sourceTree = "<group>"; };
+		726E73532AFA07FA003E8067 /* pumpkin_seeds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumpkin_seeds.png; sourceTree = "<group>"; };
+		726E73542AFA07FA003E8067 /* pistachio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pistachio.png; sourceTree = "<group>"; };
+		726E73552AFA07FA003E8067 /* walnut.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = walnut.png; sourceTree = "<group>"; };
+		726E73562AFA07FA003E8067 /* cachew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cachew.png; sourceTree = "<group>"; };
+		726E73572AFA07FA003E8067 /* groundnuts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = groundnuts.png; sourceTree = "<group>"; };
+		726E73592AFA07FA003E8067 /* dairy_promo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dairy_promo.jpg; sourceTree = "<group>"; };
+		726E735A2AFA07FA003E8067 /* dry_fruits_promo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dry_fruits_promo.jpg; sourceTree = "<group>"; };
+		726E735B2AFA07FA003E8067 /* fruit_promo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fruit_promo.jpg; sourceTree = "<group>"; };
+		726E73612AFA07FA003E8067 /* bread.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bread.png; sourceTree = "<group>"; };
+		726E73622AFA07FA003E8067 /* ghee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ghee.png; sourceTree = "<group>"; };
+		726E73632AFA07FA003E8067 /* milk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = milk.png; sourceTree = "<group>"; };
+		726E73642AFA07FA003E8067 /* eggs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eggs.png; sourceTree = "<group>"; };
+		726E73652AFA07FA003E8067 /* curd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = curd.png; sourceTree = "<group>"; };
+		726E73672AFA07FB003E8067 /* papaya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = papaya.png; sourceTree = "<group>"; };
+		726E73682AFA07FB003E8067 /* peach.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peach.png; sourceTree = "<group>"; };
+		726E73692AFA07FB003E8067 /* avacado.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avacado.png; sourceTree = "<group>"; };
+		726E736A2AFA07FB003E8067 /* bananas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bananas.png; sourceTree = "<group>"; };
+		726E736B2AFA07FB003E8067 /* coconut.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coconut.png; sourceTree = "<group>"; };
+		726E736C2AFA07FB003E8067 /* pineapple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pineapple.png; sourceTree = "<group>"; };
+		726E736D2AFA07FB003E8067 /* mango.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mango.png; sourceTree = "<group>"; };
+		726E736E2AFA07FB003E8067 /* lichi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lichi.png; sourceTree = "<group>"; };
+		726E736F2AFA07FB003E8067 /* sapota.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sapota.png; sourceTree = "<group>"; };
+		726E73702AFA07FB003E8067 /* grape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grape.png; sourceTree = "<group>"; };
+		726E73712AFA07FB003E8067 /* watermelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watermelon.png; sourceTree = "<group>"; };
+		726E73722AFA07FB003E8067 /* orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orange.png; sourceTree = "<group>"; };
+		726E73732AFA07FB003E8067 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		726E73742AFA07FB003E8067 /* pomegranate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pomegranate.png; sourceTree = "<group>"; };
+		726E73752AFA07FB003E8067 /* strawberries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = strawberries.png; sourceTree = "<group>"; };
+		726E73762AFA07FB003E8067 /* plum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plum.png; sourceTree = "<group>"; };
+		726E73772AFA07FB003E8067 /* guava.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guava.png; sourceTree = "<group>"; };
+		726E73782AFA07FB003E8067 /* berries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = berries.png; sourceTree = "<group>"; };
+		726E73792AFA07FB003E8067 /* kiwi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiwi.png; sourceTree = "<group>"; };
+		726E737B2AFA07FB003E8067 /* potato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = potato.png; sourceTree = "<group>"; };
+		726E737C2AFA07FB003E8067 /* corn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = corn.png; sourceTree = "<group>"; };
+		726E737D2AFA07FB003E8067 /* carrot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carrot.png; sourceTree = "<group>"; };
+		726E737E2AFA07FB003E8067 /* onion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onion.png; sourceTree = "<group>"; };
+		726E737F2AFA07FB003E8067 /* tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato.png; sourceTree = "<group>"; };
+		726E73802AFA07FB003E8067 /* raddish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raddish.png; sourceTree = "<group>"; };
+		726E73812AFA07FB003E8067 /* brinjal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brinjal.png; sourceTree = "<group>"; };
+		726E73822AFA07FB003E8067 /* cabbage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cabbage.png; sourceTree = "<group>"; };
+		726E73832AFA07FB003E8067 /* lettuce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lettuce.png; sourceTree = "<group>"; };
+		726E73842AFA07FB003E8067 /* pumpkin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pumpkin.png; sourceTree = "<group>"; };
+		726E73B52AFA1667003E8067 /* 57567b6c-87d8-11ea-bc55-0242ac130003.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "57567b6c-87d8-11ea-bc55-0242ac130003.json"; sourceTree = "<group>"; };
+		726E73B62AFA1667003E8067 /* 575679a0-87d8-11ea-bc55-0242ac130003.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "575679a0-87d8-11ea-bc55-0242ac130003.json"; sourceTree = "<group>"; };
+		726E73B72AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "57567a90-87d8-11ea-bc55-0242ac130003.json"; sourceTree = "<group>"; };
+		726E73B82AFA1667003E8067 /* 5756773e-87d8-11ea-bc55-0242ac130003.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "5756773e-87d8-11ea-bc55-0242ac130003.json"; sourceTree = "<group>"; };
 		8769482CF9484C519BC676B0 /* Pods-KDATest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATest.debug.xcconfig"; path = "Target Support Files/Pods-KDATest/Pods-KDATest.debug.xcconfig"; sourceTree = "<group>"; };
 		DBC593EA4D9F0EC64A736304 /* Pods-KDATestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATestTests.debug.xcconfig"; path = "Target Support Files/Pods-KDATestTests/Pods-KDATestTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -95,6 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				7238960F2AF9044700622E53 /* KDATest */,
+				726E72E82AFA070C003E8067 /* resources */,
 				726E72E72AF9F8C7003E8067 /* Assets.xcassets */,
 				723896202AF9044800622E53 /* KDATestTests */,
 				7238962A2AF9044800622E53 /* KDATestUITests */,
@@ -169,6 +268,102 @@
 			children = (
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		726E72E82AFA070C003E8067 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				726E72E92AFA070C003E8067 /* categories.json */,
+				726E73B72AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json */,
+				726E73B52AFA1667003E8067 /* 57567b6c-87d8-11ea-bc55-0242ac130003.json */,
+				726E73B62AFA1667003E8067 /* 575679a0-87d8-11ea-bc55-0242ac130003.json */,
+				726E73B82AFA1667003E8067 /* 5756773e-87d8-11ea-bc55-0242ac130003.json */,
+				726E73602AFA07FA003E8067 /* dairy */,
+				726E73662AFA07FB003E8067 /* fruits */,
+				726E73502AFA07FA003E8067 /* nuts_and_seeds */,
+				726E73582AFA07FA003E8067 /* promo */,
+				726E737A2AFA07FB003E8067 /* vegetables */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		726E73502AFA07FA003E8067 /* nuts_and_seeds */ = {
+			isa = PBXGroup;
+			children = (
+				726E73512AFA07FA003E8067 /* sunflower_seed.png */,
+				726E73522AFA07FA003E8067 /* almonds.png */,
+				726E73532AFA07FA003E8067 /* pumpkin_seeds.png */,
+				726E73542AFA07FA003E8067 /* pistachio.png */,
+				726E73552AFA07FA003E8067 /* walnut.png */,
+				726E73562AFA07FA003E8067 /* cachew.png */,
+				726E73572AFA07FA003E8067 /* groundnuts.png */,
+			);
+			path = nuts_and_seeds;
+			sourceTree = "<group>";
+		};
+		726E73582AFA07FA003E8067 /* promo */ = {
+			isa = PBXGroup;
+			children = (
+				726E73592AFA07FA003E8067 /* dairy_promo.jpg */,
+				726E735A2AFA07FA003E8067 /* dry_fruits_promo.jpg */,
+				726E735B2AFA07FA003E8067 /* fruit_promo.jpg */,
+			);
+			path = promo;
+			sourceTree = "<group>";
+		};
+		726E73602AFA07FA003E8067 /* dairy */ = {
+			isa = PBXGroup;
+			children = (
+				726E73612AFA07FA003E8067 /* bread.png */,
+				726E73622AFA07FA003E8067 /* ghee.png */,
+				726E73632AFA07FA003E8067 /* milk.png */,
+				726E73642AFA07FA003E8067 /* eggs.png */,
+				726E73652AFA07FA003E8067 /* curd.png */,
+			);
+			path = dairy;
+			sourceTree = "<group>";
+		};
+		726E73662AFA07FB003E8067 /* fruits */ = {
+			isa = PBXGroup;
+			children = (
+				726E73672AFA07FB003E8067 /* papaya.png */,
+				726E73682AFA07FB003E8067 /* peach.png */,
+				726E73692AFA07FB003E8067 /* avacado.png */,
+				726E736A2AFA07FB003E8067 /* bananas.png */,
+				726E736B2AFA07FB003E8067 /* coconut.png */,
+				726E736C2AFA07FB003E8067 /* pineapple.png */,
+				726E736D2AFA07FB003E8067 /* mango.png */,
+				726E736E2AFA07FB003E8067 /* lichi.png */,
+				726E736F2AFA07FB003E8067 /* sapota.png */,
+				726E73702AFA07FB003E8067 /* grape.png */,
+				726E73712AFA07FB003E8067 /* watermelon.png */,
+				726E73722AFA07FB003E8067 /* orange.png */,
+				726E73732AFA07FB003E8067 /* apple.png */,
+				726E73742AFA07FB003E8067 /* pomegranate.png */,
+				726E73752AFA07FB003E8067 /* strawberries.png */,
+				726E73762AFA07FB003E8067 /* plum.png */,
+				726E73772AFA07FB003E8067 /* guava.png */,
+				726E73782AFA07FB003E8067 /* berries.png */,
+				726E73792AFA07FB003E8067 /* kiwi.png */,
+			);
+			path = fruits;
+			sourceTree = "<group>";
+		};
+		726E737A2AFA07FB003E8067 /* vegetables */ = {
+			isa = PBXGroup;
+			children = (
+				726E737B2AFA07FB003E8067 /* potato.png */,
+				726E737C2AFA07FB003E8067 /* corn.png */,
+				726E737D2AFA07FB003E8067 /* carrot.png */,
+				726E737E2AFA07FB003E8067 /* onion.png */,
+				726E737F2AFA07FB003E8067 /* tomato.png */,
+				726E73802AFA07FB003E8067 /* raddish.png */,
+				726E73812AFA07FB003E8067 /* brinjal.png */,
+				726E73822AFA07FB003E8067 /* cabbage.png */,
+				726E73832AFA07FB003E8067 /* lettuce.png */,
+				726E73842AFA07FB003E8067 /* pumpkin.png */,
+			);
+			path = vegetables;
 			sourceTree = "<group>";
 		};
 		9EEAC8E9B7B1F31F82DCF281 /* Pods */ = {
@@ -293,6 +488,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				726E739E2AFA07FB003E8067 /* mango.png in Resources */,
+				726E73882AFA07FB003E8067 /* pistachio.png in Resources */,
+				726E73972AFA07FB003E8067 /* curd.png in Resources */,
+				726E739D2AFA07FB003E8067 /* pineapple.png in Resources */,
+				726E73B32AFA07FB003E8067 /* lettuce.png in Resources */,
+				726E739B2AFA07FB003E8067 /* bananas.png in Resources */,
+				726E73982AFA07FB003E8067 /* papaya.png in Resources */,
+				726E73852AFA07FB003E8067 /* sunflower_seed.png in Resources */,
+				726E739A2AFA07FB003E8067 /* avacado.png in Resources */,
+				726E73BC2AFA1667003E8067 /* 5756773e-87d8-11ea-bc55-0242ac130003.json in Resources */,
+				726E73952AFA07FB003E8067 /* milk.png in Resources */,
+				726E738B2AFA07FB003E8067 /* groundnuts.png in Resources */,
+				726E73892AFA07FB003E8067 /* walnut.png in Resources */,
+				726E73AA2AFA07FB003E8067 /* kiwi.png in Resources */,
+				726E73AE2AFA07FB003E8067 /* onion.png in Resources */,
+				726E73A62AFA07FB003E8067 /* strawberries.png in Resources */,
+				726E73AD2AFA07FB003E8067 /* carrot.png in Resources */,
+				726E738D2AFA07FB003E8067 /* dry_fruits_promo.jpg in Resources */,
+				726E739F2AFA07FB003E8067 /* lichi.png in Resources */,
+				726E73BB2AFA1667003E8067 /* 57567a90-87d8-11ea-bc55-0242ac130003.json in Resources */,
+				726E73B42AFA07FB003E8067 /* pumpkin.png in Resources */,
+				726E738C2AFA07FB003E8067 /* dairy_promo.jpg in Resources */,
+				726E73A92AFA07FB003E8067 /* berries.png in Resources */,
+				726E73A12AFA07FB003E8067 /* grape.png in Resources */,
+				726E73A52AFA07FB003E8067 /* pomegranate.png in Resources */,
+				726E738A2AFA07FB003E8067 /* cachew.png in Resources */,
+				726E73B12AFA07FB003E8067 /* brinjal.png in Resources */,
+				726E73942AFA07FB003E8067 /* ghee.png in Resources */,
+				726E73962AFA07FB003E8067 /* eggs.png in Resources */,
+				726E73BA2AFA1667003E8067 /* 575679a0-87d8-11ea-bc55-0242ac130003.json in Resources */,
+				726E73932AFA07FB003E8067 /* bread.png in Resources */,
+				726E73AC2AFA07FB003E8067 /* corn.png in Resources */,
+				726E73B02AFA07FB003E8067 /* raddish.png in Resources */,
+				726E73992AFA07FB003E8067 /* peach.png in Resources */,
+				726E73862AFA07FB003E8067 /* almonds.png in Resources */,
+				726E73A42AFA07FB003E8067 /* apple.png in Resources */,
+				726E73A82AFA07FB003E8067 /* guava.png in Resources */,
+				726E73A32AFA07FB003E8067 /* orange.png in Resources */,
+				726E73A72AFA07FB003E8067 /* plum.png in Resources */,
+				726E738E2AFA07FB003E8067 /* fruit_promo.jpg in Resources */,
+				726E73AF2AFA07FB003E8067 /* tomato.png in Resources */,
+				726E73A02AFA07FB003E8067 /* sapota.png in Resources */,
+				726E73B22AFA07FB003E8067 /* cabbage.png in Resources */,
+				726E731F2AFA070C003E8067 /* categories.json in Resources */,
+				726E73B92AFA1667003E8067 /* 57567b6c-87d8-11ea-bc55-0242ac130003.json in Resources */,
+				726E73AB2AFA07FB003E8067 /* potato.png in Resources */,
+				726E739C2AFA07FB003E8067 /* coconut.png in Resources */,
+				726E73A22AFA07FB003E8067 /* watermelon.png in Resources */,
+				726E73872AFA07FB003E8067 /* pumpkin_seeds.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
