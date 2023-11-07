@@ -68,6 +68,7 @@
 		726E73C92AFA1817003E8067 /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73C82AFA1816003E8067 /* Repository.swift */; };
 		726E73CC2AFA1BE9003E8067 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73CB2AFA1BE9003E8067 /* Utils.swift */; };
 		726E73CE2AFA1C0A003E8067 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73CD2AFA1C0A003E8067 /* Constants.swift */; };
+		726E73D02AFA1C68003E8067 /* RemoteImageURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726E73CF2AFA1C68003E8067 /* RemoteImageURL.swift */; };
 		8255679A44E6F150DD02FDA1 /* Pods_KDATest_KDATestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B97DA2A4AD7F031E2CA7FE4 /* Pods_KDATest_KDATestUITests.framework */; };
 		CD6F943FC0EB7706C0FFF735 /* Pods_KDATestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10D17AEA47B09B04833675A4 /* Pods_KDATestTests.framework */; };
 		F548330FB1ED61270FDD735A /* Pods_KDATest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49F635162CCFA2581264AD66 /* Pods_KDATest.framework */; };
@@ -163,6 +164,7 @@
 		726E73C82AFA1816003E8067 /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		726E73CB2AFA1BE9003E8067 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		726E73CD2AFA1C0A003E8067 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		726E73CF2AFA1C68003E8067 /* RemoteImageURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImageURL.swift; sourceTree = "<group>"; };
 		8769482CF9484C519BC676B0 /* Pods-KDATest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATest.debug.xcconfig"; path = "Target Support Files/Pods-KDATest/Pods-KDATest.debug.xcconfig"; sourceTree = "<group>"; };
 		DBC593EA4D9F0EC64A736304 /* Pods-KDATestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KDATestTests.debug.xcconfig"; path = "Target Support Files/Pods-KDATestTests/Pods-KDATestTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -402,6 +404,7 @@
 			children = (
 				726E73CB2AFA1BE9003E8067 /* Utils.swift */,
 				726E73CD2AFA1C0A003E8067 /* Constants.swift */,
+				726E73CF2AFA1C68003E8067 /* RemoteImageURL.swift */,
 			);
 			path = utils;
 			sourceTree = "<group>";
@@ -709,6 +712,7 @@
 				726E73C22AFA1752003E8067 /* LocalDataHandler.swift in Sources */,
 				726E73C42AFA1772003E8067 /* GroceryItemModel.swift in Sources */,
 				726E73C02AFA1727003E8067 /* ObservablesModels.swift in Sources */,
+				726E73D02AFA1C68003E8067 /* RemoteImageURL.swift in Sources */,
 				723896112AF9044700622E53 /* KDATestApp.swift in Sources */,
 				726E73BE2AFA1708003E8067 /* Protocols.swift in Sources */,
 				726E73CC2AFA1BE9003E8067 /* Utils.swift in Sources */,
