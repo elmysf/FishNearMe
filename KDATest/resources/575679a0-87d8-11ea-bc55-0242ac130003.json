@@ -1,7 +1,7 @@
 [
   {
     "uid": "9a541b28-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/lettuce.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/lettuce.png",
     "title": "Green Lettuce",
     "subtitle": "Vegetables Store",
     "price": 19000,
@@ -17,7 +17,7 @@
   },
   {
     "uid": "9a5420aa-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/carrot.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/carrot.png",
     "title": "Carrot",
     "subtitle": "Vegetables Store",
     "price": 20000,
@@ -33,7 +33,7 @@
   },
   {
     "uid": "9a54217c-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/tomato.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/tomato.png",
     "title": "Tomato",
     "subtitle": "Vegetables Store",
     "price": 8000,
@@ -49,8 +49,8 @@
   },
   {
     "uid": "9a542244-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/brinjal.png",
-    "title": "Eggplants",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/brinjal.png",
+    "title": "Eggplants/Brinjal",
     "subtitle": "Vegetables Store",
     "price": 12000,
     "quantity_label": "Per Kg",
@@ -65,7 +65,7 @@
   },
   {
     "uid": "9a542384-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/cabbage.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/cabbage.png",
     "title": "Cabbage",
     "subtitle": "Vegetables Store",
     "price": 18000,
@@ -81,7 +81,7 @@
   },
   {
     "uid": "9a54246a-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/corn.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/corn.png",
     "title": "Corn",
     "subtitle": "Vegetables Store",
     "price": 4000,
@@ -97,7 +97,7 @@
   },
   {
     "uid": "9a542532-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/potato.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/potato.png",
     "title": "Potato",
     "subtitle": "Vegetables Store",
     "price": 15000,
@@ -113,7 +113,7 @@
   },
   {
     "uid": "9a54280c-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/raddish.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/raddish.png",
     "title": "Red raddish",
     "subtitle": "Vegetables Store",
     "price": 23000,
@@ -129,7 +129,7 @@
   },
   {
     "uid": "9a5428e8-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/onion.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/onion.png",
     "title": "Onion",
     "subtitle": "Vegetables Store",
     "price": 8000,
@@ -145,7 +145,7 @@
   },
   {
     "uid": "9a5429a6-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/elmysf/StoreNearMe/blob/main/resources/vegetables/pumpkin.png",
+    "image": "https://github.com/elmysf/StoreNearMe/blob/main/KDATest/resources/vegetables/pumpkin.png",
     "title": "Pumpkin",
     "subtitle": "Vegetables Store",
     "price": 7000,
